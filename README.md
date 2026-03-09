@@ -1,3 +1,5 @@
+https://doi.org/10.5281/zenodo.18923104
+
 # The Relativistic Calculus of Being
 **Author:** A.V. Logos  
 **Field:** Unified Field Theory / Axiomatic Physics  
